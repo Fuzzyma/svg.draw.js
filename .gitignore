@@ -1,2 +1,5 @@
-/node_modules/
-/test
+.DS_Store
+.idea
+.vscode/
+node_modules/
+/dist
